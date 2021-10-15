@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Kumbh Sans',sans-serif;
+  font-family: 'Kumbh Sans',cursive;
   scroll-behavior: smooth;
 }
 body::-webkit-scrollbar{
@@ -116,13 +116,12 @@ body::-webkit-scrollbar{
     z-index: -1;
   }
   .navbar_menu.active{
-    background: #131313;
-    top: 100%;
+    top:100%;
     opacity: 1;
-    transition: all 0.5s ease;
     z-index: 99;
-    z-index: 60vh;
-    font-size: 1.6rem;
+    height: 100vh;
+    font-size: 1.5rem;
+    background: #131313;
   }
   #navbar_logo{
     padding-left: 25px;
@@ -450,8 +449,8 @@ body::-webkit-scrollbar{
   margin-bottom: 20;
 }
 .services_img{
-  width: 100%;
-  height: 310px;
+  width: 300px;
+  height: 300px;
   padding: 1rem;
 }
 .services_card:nth-child(2){
@@ -474,7 +473,7 @@ body::-webkit-scrollbar{
 .services_btn{
   display: flex;
   justify-content: center;
-  margin-top: 16px;
+  margin-top: auto;
 }
 .services_card button{
   color: #fff;
