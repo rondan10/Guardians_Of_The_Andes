@@ -32,8 +32,8 @@ body::-webkit-scrollbar{
   padding: 0 50px;
 }
 #navbar_logo{
-  background-color: #ff8177;
-  background-image: linear-gradient(to top,#ff0844 0%,#ffb199 100%);
+  background-color: #dfdfdf;
+  background-image: linear-gradient(to top,#d1cecf 0%,#837a7a 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
