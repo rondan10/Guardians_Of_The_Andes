@@ -178,7 +178,7 @@ body::-webkit-scrollbar{
 }
 /* Hero Section*/
 .hero{
-  background: linear-gradient(to right,rgba(0,0,0, 0.4) ,rgba(0,0,0, 0.1)) , url('./kiki.jpg');
+  background: linear-gradient(to right,rgba(0,0,0, 0.4) ,rgba(0,0,0, 0.1)) , url('./koko.jpg');
   height: 100vh;  
   background-position: center;
   background-size: cover;
@@ -206,13 +206,13 @@ body::-webkit-scrollbar{
   background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #696470,
-    #d0cdd4
+    #ffffff,
+    #ffffff
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #17151a,
-    #1e1c20
+    #ffffff,
+    #ffffff
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: 100%;
   -webkit-background-clip: text;
@@ -226,7 +226,7 @@ body::-webkit-scrollbar{
 /*Secciones*/
 .main {
   background-color: #131313;
-  padding: 10rem 0;
+  padding: 8rem 0;
 }
 .main_container{
   display: grid;
@@ -329,7 +329,7 @@ body::-webkit-scrollbar{
   flex-direction: column;
   justify-content: center;
   color: #fff;
-  background-image: linear-gradient(to right,#00dbde 0%,#fc00ff 100%);
+  background-image: linear-gradient(to right,#fc0456 0%,#e913ec 100%);
 }
 .main_foto{
   width: 99%;
@@ -413,7 +413,7 @@ body::-webkit-scrollbar{
   justify-content: center;
   align-items: center;
   height: 100%;
-  padding: 10rem 0;
+  padding: 7rem 0;
 }
 .services h1{
   background-color: #ff8177;
@@ -507,7 +507,7 @@ body::-webkit-scrollbar{
   justify-content: center;
   align-items: center;
   height: 100%;
-  padding: 10rem 0;
+  padding: 7rem 0;
 }
 .cachorro h1{
   background-color: #ff8177;
