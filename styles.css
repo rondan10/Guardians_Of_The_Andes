@@ -413,7 +413,7 @@ body::-webkit-scrollbar{
   justify-content: center;
   align-items: center;
   height: 100%;
-  padding: 7rem 0;
+  padding: 5rem 0;
 }
 .services h1{
   background-color: #ff8177;
