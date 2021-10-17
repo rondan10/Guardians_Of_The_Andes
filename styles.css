@@ -257,7 +257,7 @@ body::-webkit-scrollbar{
   margin-bottom: 32px;
 }
 .main_content h2{
-  font-size: 3rem;
+  font-size: 2rem;
   background: #ff8177; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
