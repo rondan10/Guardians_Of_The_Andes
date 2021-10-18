@@ -50,3 +50,13 @@ const hideMobileMenu = () => {
 
 menuLinks.addEventListener('click', hideMobileMenu);
 navLogo.addEventListener('click',hideMobileMenu);
+/*Animaciones*/
+
+gsap.registerPlugin(ScrollTrigger);
+
+gsap.from('.animate-text',{
+    duration:0.7,
+    opacity:0.1,
+    x:-200,
+    stagger:0.4
+});
