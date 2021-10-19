@@ -329,7 +329,7 @@ body::-webkit-scrollbar{
   flex-direction: column;
   justify-content: center;
   color: #fff;
-  background-image: linear-gradient(to right,#fc0456 0%,#e913ec 100%);
+  background-image: linear-gradient(to right,#ffffff 0%,#ffffff 100%);
 }
 .main_foto{
   width: 99%;
