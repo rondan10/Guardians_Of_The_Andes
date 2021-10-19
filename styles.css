@@ -9,7 +9,7 @@ body::-webkit-scrollbar{
   display: none;
 }
 .navbar{
-  background: #131313;
+  background: #000000;
   height: 80px;
   display: flex;
   align-items: center;
@@ -32,7 +32,7 @@ body::-webkit-scrollbar{
   padding: 0 50px;
 }
 #navbar_logo{
-  background-color: #dfdfdf;
+  background-color: #ffffff;
   background-image: linear-gradient(to top,#d1cecf 0%,#837a7a 100%);
   background-size: 100%;
   -webkit-background-clip: text;
@@ -118,7 +118,7 @@ body::-webkit-scrollbar{
     z-index: 99;
     height: 100vh;
     font-size: 1.5rem;
-    background: #131313;
+    background: #000000;
     /*background: #131313;
     top: 100%;
     opacity: 1;
@@ -241,7 +241,7 @@ body::-webkit-scrollbar{
   padding: 0 50px;
 }
 .main_content{
-  color:#fff;
+  color:rgb(102, 8, 131);
   width: 100%;
 }
 .main_content h1{
@@ -261,13 +261,13 @@ body::-webkit-scrollbar{
   background: #ff8177; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #9114ff,
-    #da22ff
+    #ffffff,
+    #ffffff
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #8f0eff,
-    #da22ff
+    #ffffff,
+    #ffffff
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: 100%;
   -webkit-background-clip: text;
@@ -322,8 +322,8 @@ body::-webkit-scrollbar{
 }
 .main_img-card{
   margin: 10px;
-  height: 500px;
-  width: 500px;
+  height: 450px;
+  width: 450px;
   border-radius: 4px;
   display: flex;
   flex-direction: column;
@@ -595,7 +595,7 @@ body::-webkit-scrollbar{
 }
 /*Footer CSS*/
 .footer_container{
-  background-color:#131313 ;
+  background-color:#000000 ;
   padding: 5rem 0;
   display: flex;
   flex-direction: column;
