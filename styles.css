@@ -178,7 +178,7 @@ body::-webkit-scrollbar{
 }
 /* Hero Section*/
 .hero{
-  background: linear-gradient(to right,rgba(0,0,0, 0.4) ,rgba(0,0,0, 0.1)) , url('./lol.jpg');
+  background: linear-gradient(to right,rgba(0,0,0, 0.4) ,rgba(0,0,0, 0.1)) , url('./chowchow1.jpg');
   height: 100vh;  
   background-position: center;
   background-size: cover;
