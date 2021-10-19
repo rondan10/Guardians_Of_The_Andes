@@ -384,7 +384,7 @@ body::-webkit-scrollbar{
 @media screen and (max-width: 480px) {
   .main_img-card{
     width: 400px;
-    height: 400px;
+    height: 300px;
   }
   .fa-users,
   .fa-layer-group{
